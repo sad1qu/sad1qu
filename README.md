@@ -1,10 +1,11 @@
 ## About Me
-I am learning offensive security and penetration testing with a focus on understanding real-world security issues and proper vulnerability reporting.
+I am learning IT fundamentals with a strong focus on system access, permissions, and security awareness. My goal is to understand how real-world systems work, how misconfigurations happen, and how to prevent common security issues.
 
 ## Current Focus
-- Network and web security fundamentals
-- Manual vulnerability discovery
-- Writing clear and professional pentest reports
+- IT fundamentals (users, access, permissions)
+- Network and web security basics
+- Identifying and understanding common misconfigurations
+- Writing clear and structured technical documentation
 
 ## Disclaimer
-All content is for educational purposes and created in controlled lab environments.
+All content is created for educational purposes in controlled lab environments.
