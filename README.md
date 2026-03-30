@@ -1,11 +1,50 @@
-## About Me
-I am learning IT fundamentals with a strong focus on system access, permissions, and security awareness. My goal is to understand how real-world systems work, how misconfigurations happen, and how to prevent common security issues.
+I am an IT enthusiast currently transitioning into DevOps / Cloud.
 
-## Current Focus
-- IT fundamentals (users, access, permissions)
-- Network and web security basics
-- Identifying and understanding common misconfigurations
-- Writing clear and structured technical documentation
+I focus on learning by building real projects involving Docker, AWS and CI/CD pipelines.
 
-## Disclaimer
-All content is created for educational purposes in controlled lab environments.
+---
+
+## 🚀 Projects
+
+### 🔹 Node.js App Deployment (Docker + AWS + CI/CD)
+- Built a simple Node.js (Express) application  
+- Containerized the app using Docker  
+- Deployed it on AWS EC2 (Linux)  
+- Configured networking and security groups  
+- Implemented basic CI with GitHub Actions  
+
+👉 Live demo: https://hello-devops-5sak.onrender.com  
+👉 Repo: https://github.com/sad1qu/hello-devops  
+
+---
+
+## 🧠 Current Focus
+
+- Docker & containerization  
+- AWS (EC2, networking basics)  
+- CI/CD (GitHub Actions)  
+- Linux (CLI, troubleshooting)  
+
+---
+
+## 🛠️ Tech Stack
+
+- Docker  
+- AWS  
+- Linux  
+- Git & GitHub  
+- Node.js  
+
+---
+
+## 📌 About Me
+
+I have a background in IT Support and troubleshooting, where I developed strong problem-solving skills.
+
+Currently, I am focused on building practical DevOps skills through hands-on labs and real deployments.
+
+---
+
+## ⚠️ Disclaimer
+
+All projects are created for educational purposes in a controlled lab environment.
