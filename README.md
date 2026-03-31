@@ -6,7 +6,7 @@ I focus on learning by building real projects involving Docker, AWS and CI/CD pi
 
 ## 🚀 Projects
 
-### 🔹 Node.js App Deployment (Docker + AWS + CI/CD)
+### 🔹 Node.js App Deployment (Docker + AWS + CI)
 - Built a simple Node.js (Express) application  
 - Containerized the app using Docker  
 - Deployed it on AWS EC2 (Linux)  
