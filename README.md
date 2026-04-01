@@ -45,6 +45,6 @@ Currently, I am focused on building practical DevOps skills through hands-on lab
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 All projects are created for educational purposes in a controlled lab environment.
