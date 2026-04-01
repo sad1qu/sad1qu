@@ -4,21 +4,21 @@ I focus on learning by building real projects involving Docker, AWS and CI/CD pi
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔹 Node.js App Deployment (Docker + AWS + CI)
+### Node.js App Deployment (Docker + AWS + CI)
 - Built a simple Node.js (Express) application  
 - Containerized the app using Docker  
 - Deployed it on AWS EC2 (Linux)  
 - Configured networking and security groups  
 - Implemented basic CI with GitHub Actions  
 
-👉 Live demo: https://hello-devops-5sak.onrender.com  
-👉 Repo: https://github.com/sad1qu/hello-devops  
+Live demo: https://hello-devops-5sak.onrender.com  
+Repo: https://github.com/sad1qu/hello-devops  
 
 ---
 
-## 🧠 Current Focus
+## Current Focus
 
 - Docker & containerization  
 - AWS (EC2, networking basics)  
@@ -27,7 +27,7 @@ I focus on learning by building real projects involving Docker, AWS and CI/CD pi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Docker  
 - AWS  
@@ -37,7 +37,7 @@ I focus on learning by building real projects involving Docker, AWS and CI/CD pi
 
 ---
 
-## 📌 About Me
+## About Me
 
 I have a background in IT Support and troubleshooting, where I developed strong problem-solving skills.
 
