@@ -1,10 +1,10 @@
-# Hi, I'm Adrian 👋
+# Hi, I'm Adrian 
 
 IT Enthusiast passionate about **System Administration**, **Networking**, **Linux**, and **Cloud/Container Technologies**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 * **Systems:** Linux (Ubuntu Server CLI), Windows 10/11, Windows Server, Active Directory
 * **Networking & VPN:** TCP/IP, DNS, DHCP, Troubleshooting, Tailscale (Mesh VPN)
 * **Containers & Cloud:** Docker, Docker Compose, Portainer, AWS EC2, YAML
@@ -13,7 +13,7 @@ IT Enthusiast passionate about **System Administration**, **Networking**, **Linu
 
 ---
 
-### 🚀 Key Projects
+### Key Projects
 
 #### 1. Multi-Service Container Infrastructure (Homelab)
 * Deployed and managed a multi-container stack via **Docker Compose** on **Ubuntu Server**.
