@@ -1,50 +1,26 @@
-I am an IT enthusiast currently transitioning into DevOps / Cloud.
+# Hi, I'm Adrian 👋
 
-I focus on learning by building real projects involving Docker, AWS and CI/CD pipelines.
-
----
-
-## Projects
-
-### Node.js App Deployment (Docker + AWS + CI)
-- Built a simple Node.js (Express) application  
-- Containerized the app using Docker  
-- Deployed it on AWS EC2 (Linux)  
-- Configured networking and security groups  
-- Implemented basic CI with GitHub Actions  
-
-Live demo: https://hello-devops-5sak.onrender.com  
-Repo: https://github.com/sad1qu/hello-devops  
+IT Enthusiast passionate about **System Administration**, **Networking**, **Linux**, and **Cloud/Container Technologies**.
 
 ---
 
-## Current Focus
-
-- Docker & containerization  
-- AWS (EC2, networking basics)  
-- CI/CD (GitHub Actions)  
-- Linux (CLI, troubleshooting)  
-
----
-
-## Tech Stack
-
-- Docker  
-- AWS  
-- Linux  
-- Git & GitHub  
-- Node.js  
+### 🛠️ Tech Stack & Skills
+* **Systems:** Linux (Ubuntu Server CLI), Windows 10/11, Windows Server, Active Directory
+* **Networking & VPN:** TCP/IP, DNS, DHCP, Troubleshooting, Tailscale (Mesh VPN)
+* **Containers & Cloud:** Docker, Docker Compose, Portainer, AWS EC2, YAML
+* **Monitoring & Observability:** Uptime Kuma, Glances, Scrutiny (S.M.A.R.T.)
+* **Tools & Automation:** Git/GitHub, GitHub Actions (CI/CD basics), Bash / CLI
 
 ---
 
-## About Me
+### 🚀 Key Projects
 
-I have a background in IT Support and troubleshooting, where I developed strong problem-solving skills.
+#### 1. Multi-Service Container Infrastructure (Homelab)
+* Deployed and managed a multi-container stack via **Docker Compose** on **Ubuntu Server**.
+* Configured encrypted remote access (**Tailscale VPN**) and optimized container DNS resolution.
+* Integrated automated monitoring for system metrics (**Glances**, **Scrutiny**) and service uptime (**Uptime Kuma**).
 
-Currently, I am focused on building practical DevOps skills through hands-on labs and real deployments.
-
----
-
-## Disclaimer
-
-All projects are created for educational purposes in a controlled lab environment.
+#### 2. Node.js App Deployment (Docker + AWS + CI/CD)
+* Containerized a Node.js web application using Docker.
+* Deployed the application on an **AWS EC2** instance with basic security groups and networking.
+* Configured an automated CI/CD pipeline using **GitHub Actions**.
